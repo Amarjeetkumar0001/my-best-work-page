@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4 gradient-text">Alex Johnson</h3>
+            <h3 className="text-2xl font-bold mb-4 gradient-text">Amarjeet Kumar</h3>
             <p className="text-primary-foreground/80 mb-4">
               Full Stack Developer passionate about creating beautiful, functional web experiences.
             </p>
@@ -50,7 +50,7 @@ const Footer = () => {
         
         <div className="border-t border-primary-foreground/20 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2024 Alex Johnson. All rights reserved. Built with ❤️ using React & TypeScript
+            © 2024 Amarjeet Kumar. All rights reserved. Built with ❤️ using React & TypeScript
           </p>
         </div>
       </div>
